@@ -1,0 +1,17 @@
+{
+	"alunos":[
+		{
+			"id":1,
+			"nome":"Marcelino Garcia",
+			"num_inscricao":1003,
+			"curso":"informática"
+
+		},
+		{
+			"id":2,
+			"nome":"João Garcia",
+			"num_inscricao":1004,
+			"curso": "Agropecuária"
+		}
+	]
+}
